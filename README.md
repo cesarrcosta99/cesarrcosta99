@@ -19,7 +19,7 @@ Eu sou o César Costa e sou um programador Front End. Tenho experiência com:
  <a href="https://www.instagram.com/cesarecosta_/">
  <img align="left" alt="icone-instagram" width="55px" src="https://img.freepik.com/vetores-gratis/icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia_53876-136728.jpg?w=2000"/>
  </a>
- <a href="https://www.linkedin.com/in/cesar-rebou%C3%A7as/">
+ <a href="https://www.linkedin.com/in/cesar-rebouças/">
  <img align="left" alt="icone-instagram" width="50px" src="https://img.freepik.com/icones-gratis/linkedin_318-157468.jpg"/>
  </a>
 
